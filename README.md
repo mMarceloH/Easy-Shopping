@@ -4,5 +4,9 @@
 <br>
 <br>
 the end result:
-<br>
-
+<br>  <br> <br>
+<p>
+  <img src="https://github.com/mMarceloH/Easy-Shopping/blob/master/assets/desktop.PNG?raw=true" width="400px">
+  ----
+  <img src="https://github.com/mMarceloH/Easy-Shopping/blob/master/assets/mobile.PNG?raw=true" width="103px">
+</p>
